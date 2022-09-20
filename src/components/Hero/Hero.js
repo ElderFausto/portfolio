@@ -29,7 +29,7 @@ const Hero = () => {
 
           <ul className="profile-social">
             <a
-              href="https://www.linkedin.com/in/elderfausto/"
+              href="https://catholicam.herokuapp.com/"
               target={"_blank"}
               className="profile-social-link"
             >
